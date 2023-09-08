@@ -1,2 +1,3 @@
-# gatsby-sample-demos
+# Gatsby Sample Demos
+
 A collection of Gatsby examples.
